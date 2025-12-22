@@ -1,16 +1,36 @@
-# React + Vite
+# Justin Lau Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my projects, skills, and background as a web developer. Built using **React**, **Vite**, and **Tailwind CSS**, it’s designed to be responsive, clean, and easy to navigate.
 
-Currently, two official plugins are available:
+🌐 **Live Site:** [jlau-portfolio.vercel.app](https://jlau-portfolio.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I’m a Computer Science student at UC Davis with a focus on full-stack web development. This portfolio highlights my projects, skills, and ongoing learning journey in modern web technologies.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Flask (learning), RESTful APIs  
+- **Databases:** MongoDB (basic knowledge)  
+- **Tools & Platforms:** Git/GitHub, VS Code, Socket.io, Clerk (OAuth 2.0), Cloudinary, Vercel  
+
+---
+
+## Projects
+
+Check out my projects section on the live site for detailed descriptions and tech used. Examples include:
+
+- **MediHelp:** A web application supporting individuals with disabilities and health issues, with document interpretation, appointment scheduling, and transportation assistance.  
+- **Music Streaming App:** A modern MERN stack application with real-time chat and analytics.  
+- **TMDB Movie App:** React project integrating Appwrite and the TMDB API for movie discovery.
+
+---
+
+## Contact
+
+Have a project in mind or want to collaborate? Feel free to reach out through the contact section on my website. I’m always open to discussing new opportunities.
