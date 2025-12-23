@@ -15,18 +15,16 @@ I’m a Computer Science student at UC Davis with a focus on full-stack web deve
 ## Technologies Used
 
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Flask (learning), RESTful APIs  
-- **Databases:** MongoDB (basic knowledge)  
-- **Tools & Platforms:** Git/GitHub, VS Code, Socket.io, Clerk (OAuth 2.0), Cloudinary, Vercel  
+- **Build Tools & Platform:** Vite, VS Code, Git/GitHub, Vercel  
 
 ---
 
 ## Projects
 
-Check out my projects section on the live site for detailed descriptions and tech used. Examples include:
+Check out the projects section on the live site for detailed descriptions and tech used. Examples include:
 
-- **MediHelp:** A web application supporting individuals with disabilities and health issues, with document interpretation, appointment scheduling, and transportation assistance.  
-- **Music Streaming App:** A modern MERN stack application with real-time chat and analytics.  
+- **MediHelp:** A web application supporting individuals with disabilities and health issues, featuring document interpretation, appointment scheduling, and transportation assistance.  
+- **Music Streaming App:** A MERN stack application with real-time chat and analytics.  
 - **TMDB Movie App:** React project integrating Appwrite and the TMDB API for movie discovery.
 
 ---
